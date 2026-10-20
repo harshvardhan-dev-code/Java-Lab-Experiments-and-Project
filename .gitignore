@@ -1,0 +1,21 @@
+# Compiled Java classes
+*.class
+out/
+bin/
+
+# Maven build output
+target/
+
+# Packaged files (driver JARs are downloaded separately; see Experiment-3 lib/README.md)
+*.jar
+*.war
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
